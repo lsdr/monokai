@@ -4,6 +4,8 @@
 
 The [original repos still live][repos], although it hasn't been updated since 2009. This repos serves only to allow monokai.vim to be installed using modern plugin managers for vim.
 
+There's also a [vim.org Script page][vimorg] for this colorscheme.
+
 First seen [here][first].
 
 ## Vundle
@@ -27,3 +29,4 @@ Don't forget to `:BundleInstall` after editing your config files.
 [screenshot]: https://github.com/lsdr/monokai/raw/master/screenshot.png "monokai.vim screenshot"
 [ccbync]: http://creativecommons.org/licenses/by-nc/3.0/
 [ccstamp]: http://i.creativecommons.org/l/by-nc/3.0/88x31.png "creative commons by-nc"
+[vimorg]: http://www.vim.org/scripts/script.php?script_id=4667
