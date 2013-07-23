@@ -1,12 +1,10 @@
 # monokai.vim
 
-[Monokai][textmate] colorscheme, originally [ported to vim by Damien Gombault][original].
+[Monokai][textmate] colorscheme, originally [ported to vim by Damien Gombault][original] (first seen [here][first]).
 
 The [original repos still live][repos], although it hasn't been updated since 2009. This repos serves only to allow monokai.vim to be installed using modern plugin managers for vim.
 
 There's also a [vim.org Script page][vimorg] for this colorscheme.
-
-First seen [here][first].
 
 ## Vundle
 Add to your .vimrc:
@@ -14,6 +12,12 @@ Add to your .vimrc:
     Bundle 'lsdr/monokai'
 
 Don't forget to `:BundleInstall` after editing your config files.
+
+## Manual install
+Fetch it over the net and store it locally in your `.vim/colors` folder:
+
+    $ cd ~/.vim/colors
+    $ curl -G https://raw.github.com/lsdr/monokai/master/colors/monokai.vim -o monokai.vim
 
 ## Screenshot
 [![monokai.vim screenshot][screenshot]](https://github.com/lsdr/monokai/raw/master/screenshot.png)
