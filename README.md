@@ -34,3 +34,4 @@ Fetch it over the net and store it locally in your `.vim/colors` folder:
 [ccbync]: http://creativecommons.org/licenses/by-nc/3.0/
 [ccstamp]: http://i.creativecommons.org/l/by-nc/3.0/88x31.png "creative commons by-nc"
 [vimorg]: http://www.vim.org/scripts/script.php?script_id=4667
+
