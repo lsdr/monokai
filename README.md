@@ -1,6 +1,6 @@
 # monokai.vim
 
-[Monokai][textmate] colorscheme, originally [ported to vim by Damien Gombault][original] (first seen [here][first]).
+[Monokai][textmate] is a GUI-only colorscheme, originally [ported to vim by Damien Gombault][original] (first seen [here][first]).
 
 The [original repos still live][repos], although it hasn't been updated since 2009. This repos serves only to allow monokai.vim to be installed using modern plugin managers for vim.
 
