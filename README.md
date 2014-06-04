@@ -17,7 +17,7 @@ Don't forget to `:BundleInstall` after editing your config files.
 Fetch it over the net and store it locally in your `.vim/colors` folder:
 
     $ cd ~/.vim/colors
-    $ curl -G https://raw.github.com/lsdr/monokai/master/colors/monokai.vim -o monokai.vim
+    $ curl -G https://raw.githubusercontent.com/lsdr/monokai/master/colors/monokai.vim -o monokai.vim
 
 ## Screenshot
 [![monokai.vim screenshot][screenshot]](https://github.com/lsdr/monokai/raw/master/screenshot.png)
