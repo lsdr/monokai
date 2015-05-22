@@ -96,7 +96,7 @@ hi! link Character    Yellow
 "hi Boolean
 "hi Float
 "
-hi! link Identifier   Green
+hi! link Identifier   Blue
 "hi Function
 "
 hi! link Statement    Red
@@ -156,3 +156,86 @@ hi link rubyClassVariable       White
 hi link rubyControl             Green
 hi link rubyGlobalVariable      White
 hi link rubyInstanceVariable    White
+
+" javascript
+hi link javaScriptBraces        White
+hi link javaScriptFunction      Blue
+hi link javaScriptFuncArg       Orange
+hi link javaScriptParens        White
+hi link javaScriptFuncExp       Green
+hi link javaScriptFuncEq        Red
+hi link javaScriptFuncComma     Orange
+hi link javaScriptEndColons     White
+hi link javaScriptOpSymbols     Red
+hi link javaScriptNull          Purple
+hi link javaScriptGlobalObjects White
+hi link javaScriptOperator      Red
+hi link javaScriptLogicSymbols  Red
+hi link javaScriptHtmlElemProperties  Blue
+
+" typescript
+hi link typeScriptBraces        White
+hi link typeScriptFunction      Blue
+hi link typeScriptFuncArg       Orange
+hi link typeScriptParens        White
+hi link typeScriptFuncExp       Green
+hi link typeScriptFuncEq        Red
+hi link typeScriptFuncComma     Orange
+hi link typeScriptEndColons     White
+hi link typeScriptOpSymbols     Red
+hi link typeScriptNull          Purple
+hi link typeScriptGlobalObjects White
+hi link typeScriptOperator      Red
+hi link typeScriptLogicSymbols  Red
+
+" html
+hi link htmlTag        White
+hi link htmlTagN       White
+hi link htmlEndTag     White
+hi link htmlArg        Green
+hi link htmlTitle      White
+hi link htmlH1         White
+
+" csharp
+hi link csClass        White
+hi link csIface        White
+hi link csGeneric      Blue
+hi link xmlTag         Grey
+hi link xmlEndTag      Grey
+hi link csXlmComment   Grey
+
+" ruby
+hi link rubyDefine            Red
+hi link rubyFunction          Green
+hi link rubyMethodDeclaration Green
+hi link rubyDoBlock           White
+hi link rubyBlock             White
+hi link rubyControl           Red
+hi link rubyBlockParameter    White
+hi link rubyConstant          Blue
+hi link rubyClassDeclaration  Green
+hi link rubyInclude           Red
+
+"yaml
+hi link yamlPlainScalar       Yellow
+hi link yamlInteger           Purple
+hi link yamlAnchor            White
+hi link yamlBlockMappingKey   Red
+hi link yamlKeyValueDelimiter Red
+hi link yamlAlias             Red
+hi link yamlBlockMappingMerge Red
+
+"sql
+hi link sqlKeyword Red
+
+"xml
+hi link xmlTag Red
+hi link xmlTagName Red
+hi link xmlAttrib Green
+hi link xmlProcessing Red
+hi link xmlProcessingdelim White
+
+
+
+
+
