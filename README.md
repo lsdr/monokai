@@ -9,9 +9,9 @@ There's also a [vim.org Script page][vimorg] for this colorscheme.
 ## Vundle
 Add to your .vimrc:
 
-    Bundle 'lsdr/monokai'
+    Plugin 'lsdr/monokai'
 
-Don't forget to `:BundleInstall` after editing your config files.
+Don't forget to `:PluginInstall` after editing your config files.
 
 ## Manual install
 Fetch it over the net and store it locally in your `.vim/colors` folder:
